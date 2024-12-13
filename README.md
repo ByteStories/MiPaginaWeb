@@ -20,7 +20,7 @@
 Deporte y Naturaleza con el equipo
 Atlético del Mar. <br> Es una actividad que
 disfruto tanto por el deporte en sí como
-por el compañerismo que genera. </br> </p>  <center><img src="oie_IyJGlSTt8HzN.jpg" 
+por el compañerismo que genera.  </p>  <center><img src="oie_IyJGlSTt8HzN.jpg" 
 style="width: 300px; height: 300px; object-fit: cover;"></center>
    
       
