@@ -1,4 +1,4 @@
-<html>
+
 <body style="background-image: url('abstract-rainbow-6296890.jpg');
  background-repeat: no-repeat; 
  background-size: cover; 
