@@ -5,9 +5,7 @@
  background-position: center;">
 <head>  
  <center> <h1 style="font-family: Copperplate, Papyrus, fantasy;">Mi página web</h1>
-  
 
-  
   
 <h2 style="font-family: Copperplate, Papyrus, fantasy;">Hola bienvenidos a mi blog soy Yasmine estudiante de 2º Bachillerato y alumna de TIC2 en el IEDA</h2>
   
@@ -30,7 +28,7 @@ style="width: 300px; height: 300px; object-fit: cover;"></center>
 	
       <p style="font-family: Verdana, sans-serif;">Me interesa el arte en diversas formas:
 disfruto dibujar, pintar, explorar esculturas
-y hacer manualidades. </br></p> <center> <img src="oie_t1cBrH3tBNEs.jpg"
+y hacer manualidades.</p> <center> <img src="oie_t1cBrH3tBNEs.jpg"
 style="width: 300px; height: 300px; object-fit: cover;"> </center>
    
    > <h5 style="font-family: Tahoma, sans-serif;"> LECTURA</h5>
