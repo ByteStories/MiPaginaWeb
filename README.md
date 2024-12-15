@@ -28,28 +28,28 @@
             <center><img src="oie_od9VYK9XMXGx.jpg" style="width: 300px; height: 300px; object-fit: cover;"></center>
         </ul>
 
-           <table border="1" style="border-collapse: collapse; width: 80%; text-align: center;">
+  <table border="1" style="border-collapse: collapse; width: 80%; text-align: center;">
     <tr>
         <td>
             <a href="football-7393809_640.jpg" target="_blank">
-                <img src="football-7393809_640.jpg" alt="Deporte" style="width: 100%;">
+                <img src="football-7393809_640.jpg"  style="width: 300px; height: 300px; object-fit: cover;">
             </a>
         </td>
         <td>
             <a href="Captura de pantalla 2024-12-15 215954.jpg" target="_blank">
-                <img src="Captura de pantalla 2024-12-15 215954.jpg" alt="Arte" style="width: 100%;">
+                <img src="Captura de pantalla 2024-12-15 215954.jpg"  style="width: 300px; height: 300px; object-fit: cover;">
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="woman-4178187_640.jpg" target="_blank">
-                <img src="woman-4178187_640.jpg" alt="Lectura" style="width: 100%;">
+                <img src="woman-4178187_640.jpg"  style="width: 300px; height: 300px; object-fit: cover;">
             </a>
         </td>
         <td>
             <a href="old-letters-436501_640.jpg" target="_blank">
-                <img src="old-letters-436501_640.jpg" alt="Escritura" style="width: 100%;">
+                <img src="old-letters-436501_640.jpg"  style="width: 300px; height: 300px; object-fit: cover;">
             </a>
         </td>
     </tr>
