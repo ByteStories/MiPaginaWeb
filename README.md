@@ -1,14 +1,13 @@
 <html>
 <head>
-    <title>Mi página web</title>
-</head>
+<title>Mi página web</title></head>
 <body style="background-image: url('abstract-rainbow-6296890.jpg');
  background-repeat: no-repeat; 
  background-size: cover; 
  background-position: center;">
-    <center>
-        <h1 style="font-family: Copperplate, Papyrus, fantasy;">Mi página web</h1>
-        <h2 style="font-family: Copperplate, Papyrus, fantasy;">Hola bienvenidos a mi blog soy Yasmine estudiante de 2º Bachillerato y alumna de TIC2 en el IEDA</h2>
+<center>
+    <h1 style="font-family: Copperplate, Papyrus, fantasy;">Mi página web</h1>
+    <h2 style="font-family: Copperplate, Papyrus, fantasy;">Hola bienvenidos a mi blog soy Yasmine estudiante de 2º Bachillerato y alumna de TIC2 en el IEDA</h2>
         <h3 style="font-family: Copperplate, Papyrus, fantasy;">MIS AFICIONES</h3>
         <ul>
             <h5 style="font-family: Tahoma, sans-serif;">DEPORTE</h5>
@@ -28,6 +27,34 @@
             </p>
             <center><img src="oie_od9VYK9XMXGx.jpg" style="width: 300px; height: 300px; object-fit: cover;"></center>
         </ul>
+
+           <table border="1" style="border-collapse: collapse; width: 80%; text-align: center;">
+    <tr>
+        <td>
+            <a href="football-7393809_640.jpg" target="_blank">
+                <img src="football-7393809_640.jpg" alt="Deporte" style="width: 100%;">
+            </a>
+        </td>
+        <td>
+            <a href="Captura de pantalla 2024-12-15 215954.jpg" target="_blank">
+                <img src="Captura de pantalla 2024-12-15 215954.jpg" alt="Arte" style="width: 100%;">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="woman-4178187_640.jpg" target="_blank">
+                <img src="woman-4178187_640.jpg" alt="Lectura" style="width: 100%;">
+            </a>
+        </td>
+        <td>
+            <a href="old-letters-436501_640.jpg" target="_blank">
+                <img src="old-letters-436501_640.jpg" alt="Escritura" style="width: 100%;">
+            </a>
+        </td>
+    </tr>
+</table>
+
         <p style="font-family: Tahoma, sans-serif;">Dale click aquí para visitar mi blog de TIC</p>
         <p style="font-family: Verdana, sans-serif;">
             <a href="https://bytestory1.wordpress.com/"><button>Bytestory</button></a>
@@ -39,4 +66,3 @@
     </center>
 </body>
 </html>
-
